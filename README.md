@@ -2,7 +2,13 @@
 
 This is a Login form and Registeration form.
 
+Extract the file provided into the /xampp/htdocs.
+
 To run this you must have a good internet connection.
+
+run the login.php first.
+
+run file by url "localhost/htdocs/guvi_Developer/php/login.php" . 
 
 --- For Forget Password form ---
 
