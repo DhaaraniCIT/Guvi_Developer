@@ -1,9 +1,10 @@
 # Guvi_Developer
 
 This is a Login form and Registeration form.
-#To run this you must have a good internet connection.
 
-#--- For Forget Password form ---
+To run this you must have a good internet connection.
+
+--- For Forget Password form ---
   1.$mail->Username='dhaarani@gmail.com';
   2.$mail->Password='xxxxxxxxx';
   
