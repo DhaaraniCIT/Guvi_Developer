@@ -14,4 +14,8 @@ To run this you must have a good internet connection.
   
   So,you will act as an admin.
   
+  And another important point is the DB .
+  
+  The table should contain columns id,name,username,pass,age,dob,phone,date,token,token-end. 
+  
   All other will work fine.
