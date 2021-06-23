@@ -2,6 +2,8 @@
 
 This is a Login form and Registeration form.
 
+Download the guvi_Developer updated one.
+
 Extract the file provided into the /xampp/htdocs.
 
 To run this you must have a good internet connection.
