@@ -2,7 +2,7 @@
 
 This is a Login form and Registeration form.
 
-Download the guvi_Developer.zip one.
+Download the guvi_Developer.zip .
 
 Extract the file provided into the /xampp/htdocs.
 
